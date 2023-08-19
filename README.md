@@ -9,4 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Satria Purnama Putra, [Linkdin](https://www.linkedin.com/in/satriapurnama11/)
+* Satria Purnama Putra, [Linkedin](https://www.linkedin.com/in/satriapurnama11/).
